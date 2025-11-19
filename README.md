@@ -20,6 +20,8 @@
     <tr>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="70" height="70"></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="70" height="70"></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="70" height="70"></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask" width="70" height="70"></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70"></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" alt="Angular" width="70" height="70"></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="70" height="70"></td>
@@ -29,6 +31,26 @@
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="70" height="70"></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="70" height="70"></td>
     </tr>
+  </table>
+
+  <h2>Ongoing projects</h2>
+  <table border>
+    <thead>
+      <tr>
+        <th>Project Name</th>
+        <th>Descriptiom</th>
+        <th colspan="3">Technology Used</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Automated - New IPO and IPO Allotment Alerts</td>
+        <td>This project is responsible to check if any new IPO has been issued and notifies to the subscribed user periodically via email. This helps user to apply for potentially beneficial shares and make good profits rather than missing out on them</td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="70" height="70"></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="70" height="70"></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask" width="70" height="70"></td>
+      </tr>
+    </tbody>
   </table>
   
 </p>
