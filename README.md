@@ -1,7 +1,7 @@
 <p>
   
   Hi, this is <h1>Dhiraj Dhungana</h1>
-  Former <b>Associate Software Engineer</b> at <b><a href="https://www.linkedin.com/company/deerwalk-inc/">Deerwalk Inc.</a>,</b> currently known as <b><a href="https://www.linkedin.com/company/cedar-gate-tech/">Cedar Gate Technologies</a>.</b>
+  Former <b>Associate Software Engineer</b> at <b><a href="https://www.linkedin.com/company/deerwalk-inc/" target="_blank">Deerwalk Inc.</a>,</b> currently known as <b><a href="https://www.linkedin.com/company/cedar-gate-tech/" target="_blank">Cedar Gate Technologies</a>.</b>
   I started my career there as an intern on 2<sup>nd</sup>, September, 2019, and became full-time on 4<sup>th</sup>, May, 2020, and worked until 23<sup>rd</sup>, February, 2021, before I decided to pursue a Master of Information Technology in Australia. 
   During my tenure there as an experienced software engineer,
   
