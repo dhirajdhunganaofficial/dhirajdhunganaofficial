@@ -39,7 +39,7 @@
       <tr>
         <th>Project Name</th>
         <th>Descriptiom</th>
-        <th colspan="3">Technology Used</th>
+        <th colspan="4">Technology Used</th>
       </tr>
     </thead>
     <tbody>
@@ -49,6 +49,7 @@
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="70" height="70"></td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="70" height="70"></td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask" width="70" height="70"></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML" width="70" height="70"></td>
       </tr>
     </tbody>
   </table>
