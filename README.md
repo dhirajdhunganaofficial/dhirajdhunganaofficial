@@ -65,7 +65,7 @@
       </tr>
       <tr>
         <th rowspan="4">Automated - New IPO and IPO Allotment Alerts</th>
-        <td rowspan="4">This project is responsible to check if any new IPO has been issued and notifies to the subscribed user periodically via email. This helps user to apply for potentially beneficial shares and make good profits rather than missing out on them</td>
+        <td rowspan="4">This project is responsible to check if any new IPO has been issued and notifies to the subscribed user periodically via email. This helps user to apply for potentially beneficial shares and make good profits rather than missing out on them.<br><br>Please check it out by clicking the link below:<br><br><p align="center">https://ipoalert.dhirajdhungana.com</p></td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="70" height="70"></td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="70" height="70"></td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask" width="70" height="70"></td>
