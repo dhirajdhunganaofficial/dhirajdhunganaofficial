@@ -44,7 +44,27 @@
     </thead>
     <tbody>
       <tr>
-        <td rowspan="4">Automated - New IPO and IPO Allotment Alerts</td>
+        <th rowspan="4">Dhiraj Dhungana - Personal Website</th>
+        <td rowspan="4">This is a personal website reflecting my portfolio where you can basically find almost everything about me.<br><br>Please check it out by clicking the link below:<br><br><p align="center">https://dhirajdhungana.com</p></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original-wordmark.svg" alt="NGINX" width="70" height="70"></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="70" height="70"></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original-wordmark.svg" alt="Flask" width="70" height="70"></td>
+      </tr>
+      <tr>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML" width="70" height="70"></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS" width="70" height="70"></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript" width="70" height="70"></td>
+      </tr>
+      <tr>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" alt="Jquery" width="70" height="70"></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="Github" width="70" height="70"></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="70" height="70"></td>
+      </tr>
+      <tr>
+        <td colspan="3" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="NGINX" width="70" height="70"></td>
+      </tr>
+      <tr>
+        <th rowspan="4">Automated - New IPO and IPO Allotment Alerts</th>
         <td rowspan="4">This project is responsible to check if any new IPO has been issued and notifies to the subscribed user periodically via email. This helps user to apply for potentially beneficial shares and make good profits rather than missing out on them</td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" alt="Selenium" width="70" height="70"></td>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" width="70" height="70"></td>
@@ -62,7 +82,7 @@
       </tr>
       <tr>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="NGINX" width="70" height="70"></td>
-        <td colspan="2"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original-wordmark.svg" alt="NGINX" width="70" height="70"></td>
+        <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original-wordmark.svg" alt="NGINX" width="70" height="70"></td>
       </tr>
     </tbody>
   </table>
