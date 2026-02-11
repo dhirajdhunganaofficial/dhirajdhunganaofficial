@@ -84,10 +84,24 @@
       </tr>
       <tr>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="NGINX" width="70" height="70"></td>
-        <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original-wordmark.svg" alt="NGINX" width="70" height="70"></td>
+        <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original-wordmark.svg" alt="GOOGLE" width="70" height="70"></td>
       </tr>
       <tr>
-        
+        <th rowspan="4">Inventory Management System</th>
+        <td rowspan="4">This project is developed to manage stocks so that it would be easier to keep track of the available stocks and generates report which shows summary to items needed to be ordered for every catagories.<br><br>Please check it out by clicking the link below:<br><br><p align="center">https://inventory.dhirajdhungana.com</p></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="70" height="70"></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML" width="70" height="70"></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS" width="70" height="70"></td>
+      </tr>
+      <tr>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript" width="70" height="70"></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original-wordmark.svg" alt="Jquery" width="70" height="70"></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"></td>
+      </tr>
+      <tr>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" alt="Github" width="70" height="70"></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="NGINX" width="70" height="70"></td>
+        <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="70" height="70"></td>
       </tr>
     </tbody>
   </table>
