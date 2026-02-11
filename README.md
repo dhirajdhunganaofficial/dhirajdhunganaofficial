@@ -35,7 +35,7 @@
     </tr>
   </table>
 
-  <h2>Ongoing projects</h2>
+  <h2>Projects</h2>
   <table border>
     <thead>
       <tr>
@@ -85,6 +85,9 @@
       <tr>
         <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" alt="NGINX" width="70" height="70"></td>
         <td colspan="2" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original-wordmark.svg" alt="NGINX" width="70" height="70"></td>
+      </tr>
+      <tr>
+        
       </tr>
     </tbody>
   </table>
