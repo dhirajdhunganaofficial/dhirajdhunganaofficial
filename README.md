@@ -28,7 +28,7 @@
     </tr>
     <tr>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="React" width="70" height="70"></td>
-      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS-Amazon Web Services" width="70" height="70"></td>
+      <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS-Amazon Web Services" width="70" height="70"></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grails/grails-original.svg" alt="Grails" width="70" height="70"></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="70" height="70"></td>
       <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="70" height="70"></td>
